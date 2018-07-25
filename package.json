@@ -11,9 +11,19 @@
     "url": "git+https://github.com/teloe/markdown_editor.git"
   },
   "author": "Tom Eloe",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "redis": "^0.10.3",
+    "share": "0.6.3"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/teloe/markdown_editor/issues"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
   },
   "homepage": "https://github.com/teloe/markdown_editor#readme"
 }
