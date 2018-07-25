@@ -1,0 +1,19 @@
+{
+  "name": "markdown_editor",
+  "version": "1.0.0",
+  "description": "real-time markdown viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teloe/markdown_editor.git"
+  },
+  "author": "Tom Eloe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teloe/markdown_editor/issues"
+  },
+  "homepage": "https://github.com/teloe/markdown_editor#readme"
+}
